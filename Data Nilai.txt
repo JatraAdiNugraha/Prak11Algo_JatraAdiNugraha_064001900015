@@ -1,0 +1,5 @@
+Jatra 	 85 	 90 	 100
+Dhori 	 90 	 70 	 90
+Jundy 	80 	70 	95
+Farrel 	60	75	80
+Ais 	70	80	90
